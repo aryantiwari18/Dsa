@@ -22,16 +22,22 @@ data-structures-and-algorithms/
 │
 ├── arrays/
 ├── searching/
-├── sorting/💻 Language
-Java
-🎯 Purpose
-This repository contains simple implementations of fundamental data structures and algorithms for learning, practice, and interview preparation.
-👨‍💻 Author
-Aryan Tiwari
-Information Technology Engineering Student
+├── sorting/
 ├── linked-list/
 ├── stack/
 ├── queue/
 ├── trees/
 ├── recursion/
 └── README.md
+
+
+💻 Language
+Java
+
+🎯 Purpose
+This repository contains simple implementations of fundamental data structures and algorithms for learning, practice, and interview preparation.
+
+
+👨‍💻 Author
+Aryan Tiwari
+Information Technology Engineering Student
